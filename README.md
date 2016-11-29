@@ -16,3 +16,7 @@ Spoof Proof:
 
 Substitution:
 * awholenewworld
+
+Javascrypt:
+* flag_732
+* Console: $ key
