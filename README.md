@@ -13,3 +13,6 @@ Caesar:
 Spoof Proof:
 * johnson, 192.168.50.3, 192.168.50.4
 * MAC address: eth.addr == 08:00:27:2b:f7:02
+
+Substitution:
+* awholenewworld
