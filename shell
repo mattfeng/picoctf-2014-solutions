@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sshpass -p "976977" ssh -o StrictHostKeyChecking=no pico91088@shell2014.picoctf.com
